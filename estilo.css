@@ -79,3 +79,17 @@ header, footer, .redes-sociais, .tecnologias{
 .devcard{
     background-image: url('devcard.png');
 }
+
+.projetos h3{
+    text-align: center;
+}
+
+.projetos ul{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.projetos li{
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
