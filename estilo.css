@@ -111,5 +111,19 @@ h3{
     margin-top: 20px;
     margin-bottom: 15px;
     border-bottom: 2px solid #ffffff;
+    
+}
+
+.tecnologiaas ul{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.tecnologiaas li{
+    display: inline-block;
+    width: 150px;
+    border: 1px solid #ffffff;
+    padding: 8px;
+    margin: 3px;
 }
 
