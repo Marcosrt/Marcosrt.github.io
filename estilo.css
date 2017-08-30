@@ -103,13 +103,13 @@ header, footer, .redes-sociais, .tecnologias{
     margin-bottom: 7px;
     margin-top: 7px;
     padding-left: 24px;
-    background-image: url('projetos.png.');
+    background-image: url('projetos.png');
     background-repeat: no-repeat;
 }
 
 .projetos li:hover{
     
-    background-image: url('projetos2.png.');
+    background-image: url('projetos2.png');
     color: #e35757;
 }
 
